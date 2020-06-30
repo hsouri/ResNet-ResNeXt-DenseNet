@@ -21,18 +21,6 @@ A randomized version of the CIFAR-10 dataset with 50000 training images and 1000
 
 Here we train a convolutional neural network on TensorFlow for the task of classification. The input is a single CIFAR-10 image and the output is the probabilities of 10 classes. The code given to you has Train.py file for training and Test.py for testing.
 
-## Training:
-
-
-**Installation**
-- Training:
-```shell
-python ./Code/Train.py
-```
-- Testing:
-```shell
-python ./Code/Test.py
-```
 
 
 If you are super new to machine learning and deep learning, there are a lot of resources online to learn how to program a simple neural network, tune hyperparameters for CIFAR-10. A good starting point is the [official Tensorflow tutorial](https://www.tensorflow.org/tutorials/images/deep_cnn) and [this great tutorial by Hvass Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials). If you are new to deep learning, I recommend reading up basics from [CS231n course offered by Stanford University here](https://cs231n.github.io/).
@@ -47,3 +35,32 @@ tensorboard --logdir=path/to/log-directory
 # ResNet, ResNeXt, DenseNet
 
 I have implemented a simple version of ResNet, ResNeXt, DenseNet network architectures. You can find all networks in the [Code/Network/Network.py](https://github.com/hsouri/ResNet-ResNeXt-DenseNet/blob/master/Code/Network/Network.py).
+
+
+# Model training
+
+**Installation**
+
+To train a new model first choose a network among all networks that are implemented in Network.py. You have 5 options: 
+SimpleModel, ImprovedModel, ResNetModel, DenseNetModel, and ResNextModel. Then change line 134 of Train.py:
+
+
+```shell
+prLogits, prSoftMax = YourModel(ImgPH, ImageSize, MiniBatchSize)
+```
+Change "YourModel" with one of the above models.
+
+- To start Training:
+
+```shell
+python Train.py --ExpName YourExpName
+```
+Note: Change YourExpName with any name you want!
+```
+# Model Testing
+
+You can test your model on 1000 images:
+
+```shell
+python Test.py
+``` 

@@ -85,6 +85,6 @@ The following table show the test accuracy and number of parameters of each netw
 
 # Appendix
 
-Note1: For the full project description see: https://cmsc733.github.io/2019/hw/hw0/
+Note1: For the full project description click [here](https://cmsc733.github.io/2019/hw/hw0/).
 
-Note2: For the full documentation click on [here](https://github.com/hsouri/ResNet-ResNeXt-DenseNet/blob/master/Report.pdf).
+Note2: For the full documentation click [here](https://github.com/hsouri/ResNet-ResNeXt-DenseNet/blob/master/Report.pdf).

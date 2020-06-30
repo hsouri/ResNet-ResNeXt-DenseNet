@@ -57,7 +57,7 @@ Change "YourModel" with one of the above models.
 - To start Training:
 
 ```shell
-python Train.py --ExpName YourExpName
+python Code/Train.py --ExpName YourExpName
 ```
 
 Note: Change YourExpName with any name you want!
@@ -67,5 +67,5 @@ Note: Change YourExpName with any name you want!
 You can test your model on 1000 images:
 
 ```shell
-python Test.py
+python Code/Test.py
 ``` 

@@ -1,3 +1,4 @@
-Please download cifar10 train and test data and put in in the correspondence directories.
+Please download our randomized version of CIFAR10 and put Train and Test dataset here.
 
-Link to dataset: http://www.cs.toronto.edu/~kriz/cifar.html
+Link to dataset: [CIFAR10](https://drive.google.com/file/d/18jeQgtFuEmdH93S6bWzZxYeAOv-WHJoL/view?usp=sharing)
+

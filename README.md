@@ -22,6 +22,12 @@ A randomized version of the CIFAR-10 dataset with 50000 training images and 1000
 
 I have implemented a simple version of ResNet, ResNeXt, DenseNet network architectures. You can find all networks in the [Code/Network/Network.py](https://github.com/hsouri/ResNet-ResNeXt-DenseNet/blob/master/Code/Network/Network.py).
 
+The following figures show an illustration of the ResNet, ResNeXt, and DenseNet.
+
+![Repo List](figures/fig3.png)
+![Repo List](figures/fig4.png)
+![Repo List](figures/fig5.png)
+
 
 
 

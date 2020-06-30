@@ -43,3 +43,12 @@ The code given here has Tensorboard code snippets built-in and displays training
 ```shell
 tensorboard --logdir=path/to/log-directory
 ```
+
+# ResNet, ResNeXt, DenseNet
+
+I have implemented a simple version of ResNet, ResNeXt, DenseNet network architectures. You can find all networks in the Network/Network.py.
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.

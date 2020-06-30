@@ -3,7 +3,6 @@
 """
 CMSC733 Spring 2019: Classical and Deep Learning Approaches for
 Geometric Computer Vision
-Homework 0: Alohomora: Phase 2 Starter Code
 
 
 Author(s):

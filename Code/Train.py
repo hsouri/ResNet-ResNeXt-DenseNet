@@ -8,7 +8,8 @@ Homework 0: Alohomora: Phase 2 Starter Code
 
 Author(s):
 Hossein Souri (hsouri@terpmail.umd.edu)
-PhD Candidate in Computer Science,
+PhD Candidate in Electrical and Computer Engineering,
+Computer Vision and Machine Learining
 University of Maryland, College Park
 """
 

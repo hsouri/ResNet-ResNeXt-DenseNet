@@ -15,7 +15,7 @@ Sample images from each class of the CIFAR-10 dataset is shown below:
 
 ![Repo List](figures/fig1.png)
 
-A randomized version of the CIFAR-10 dataset with 50000 training images and 10000 test images can be downloaded from [here](). CIFAR10 has two subfolders Train and Test for training and testing images respectively stored in .png format for ease of viewing and loading. Please replace these subfolders in the CIFAR10 folder and put it in the project directory.
+A randomized version of the CIFAR-10 dataset with 50000 training images and 10000 test images can be downloaded from [here](https://drive.google.com/file/d/18jeQgtFuEmdH93S6bWzZxYeAOv-WHJoL/view?usp=sharing). CIFAR10 has two subfolders Train and Test for training and testing images respectively stored in .png format for ease of viewing and loading. Please replace these subfolders in the CIFAR10 folder and put it in the project directory.
 
 # Train and Test
 

@@ -17,3 +17,15 @@ Sample images from each class of the CIFAR-10 dataset is shown below:
 
 A randomized version of the CIFAR-10 dataset with 50000 training images and 10000 test images can be downloaded from [here](). CIFAR10 has two subfolders Train and Test for training and testing images respectively stored in .png format for ease of viewing and loading. Please replace these subfolders in the CIFAR10 folder and put it in the project directory.
 
+# Train and Test
+
+Here we train a convolutional neural network on TensorFlow for the task of classification. The input is a single CIFAR-10 image and the output is the probabilities of 10 classes. The code given to you has Train.py file for training and Test.py for testing.
+
+## Training:
+
+
+**Installation**
+- Clone this repo:
+```shell
+python Train.py
+```

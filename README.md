@@ -59,9 +59,10 @@ Change "YourModel" with one of the above models.
 ```shell
 python Train.py --ExpName YourExpName
 ```
+
 Note: Change YourExpName with any name you want!
-```
-# Model Testing
+
+- Model Testing
 
 You can test your model on 1000 images:
 

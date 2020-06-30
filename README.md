@@ -69,3 +69,8 @@ You can test your model on 1000 images:
 ```shell
 python Code/Test.py
 ``` 
+# Result
+
+The following table show the test accuracy and number of parameters of each network.
+
+![Repo List](figures/fig2.png)

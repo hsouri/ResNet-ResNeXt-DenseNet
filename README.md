@@ -33,3 +33,13 @@ python ./Code/Train.py
 ```shell
 python ./Code/Test.py
 ```
+
+
+If you are super new to machine learning and deep learning, there are a lot of resources online to learn how to program a simple neural network, tune hyperparameters for CIFAR-10. A good starting point is the [official Tensorflow tutorial](https://www.tensorflow.org/tutorials/images/deep_cnn) and [this great tutorial by Hvass Labs](https://github.com/Hvass-Labs/TensorFlow-Tutorials). If you are new to deep learning, I recommend reading up basics from [CS231n course offered by Stanford University here](https://cs231n.github.io/).
+
+
+The code given here has Tensorboard code snippets built-in and displays training accuracy per batch and the loss value. You can run TensorBoard using the following:
+
+```shell
+tensorboard --logdir=path/to/log-directory
+```

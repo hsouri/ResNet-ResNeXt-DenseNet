@@ -1,12 +1,12 @@
 """
-CMSC733 Spring 2019: Classical and Deep Learning Approaches for
+CMSC733 Spring 2020: Classical and Deep Learning Approaches for
 Geometric Computer Vision
-Homework 0: Alohomora: Phase 2 Starter Code
 
 
 Author(s):
 Hossein Souri (hsouri@terpmail.umd.edu)
-PhD Candidate in Computer Science,
+PhD Student in Electrical and Computer Engineering,
+Computer Vision and Machine Learning,
 University of Maryland, College Park
 """
 

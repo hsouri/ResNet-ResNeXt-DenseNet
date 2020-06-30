@@ -46,9 +46,4 @@ tensorboard --logdir=path/to/log-directory
 
 # ResNet, ResNeXt, DenseNet
 
-I have implemented a simple version of ResNet, ResNeXt, DenseNet network architectures. You can find all networks in the Network/Network.py.
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
+I have implemented a simple version of ResNet, ResNeXt, DenseNet network architectures. You can find all networks in the [Code/Network/Network.py](https://github.com/hsouri/ResNet-ResNeXt-DenseNet/blob/master/Code/Network/Network.py).

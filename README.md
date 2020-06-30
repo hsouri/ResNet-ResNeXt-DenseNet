@@ -9,6 +9,6 @@ Here we implement multiple neural network architectures and comparing them on va
 
 # Dataset
 
-CIFAR-10 is a dataset consisting of 60000, 32×32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. More details about the datset can be found [here]{http://www.cs.toronto.edu/~kriz/cifar.html}.
+CIFAR-10 is a dataset consisting of 60000, 32×32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. More details about the datset can be found {here}[http://www.cs.toronto.edu/~kriz/cifar.html].
 
 Sample images from each class of the CIFAR-10 dataset is shown below:

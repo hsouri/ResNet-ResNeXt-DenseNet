@@ -25,7 +25,11 @@ Here we train a convolutional neural network on TensorFlow for the task of class
 
 
 **Installation**
-- Clone this repo:
+- Training:
 ```shell
-python Train.py
+python ./Code/Train.py
+```
+- Testing:
+```shell
+python ./Code/Test.py
 ```
